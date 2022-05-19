@@ -2,9 +2,9 @@
 
 ## link: https://kbodanko.github.io/wisielec1/
 
-![game screen](https://github.com/kbodanko/wisielec1/blob/master/image%205.png)
+## The lists of used words: Gumball, Darwin, Anais, Penny, Tobias, Bobert, Jajogłowi, Rocky, Nicole, Richard, Watterson, Larry
 
-##The lists of used words: Gumball, Darwin, Anais, Penny, Tobias, Bobert, Jajogłowi, Rocky, Nicole, Richard, Watterson, Larry
+![game screen](https://github.com/kbodanko/wisielec1/blob/master/image%205.png)
 
 **The heart of the project:**
 Practising work with arrays
